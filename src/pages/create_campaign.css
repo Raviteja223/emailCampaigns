@@ -1,0 +1,24 @@
+#name-span,
+#upload-contacts-span {
+  display: flex;
+  align-items: baseline;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.quill {
+  height: 250px;
+  width: 800px;
+  margin: auto;
+}
+
+#campaign-name,
+#add-text,
+#upload-contacts-text {
+  /* margin: auto; */
+  padding-inline: 15px;
+  margin-left: -200px;
+  margin: unset;
+  font-weight: 600;
+  font-size: larger;
+}
